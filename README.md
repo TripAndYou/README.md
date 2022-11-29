@@ -30,7 +30,7 @@
   </li>
    <li>
   <ul>
-  우리의 재공 서비스 
+  우리의 제공 서비스 
   <li>취향별 , 지역별 여행다녀온 분들의 리뷰  </li>
   <li>모아논 여행지를 분류별로 담아 언제든 꺼내보기 </li>
   </ul>
@@ -53,7 +53,7 @@
     css : Tailwind
   </li>
   <li>
-    패포 : netlify
+    배포 : netlify
   </li>
   <li>
     yarn
@@ -71,7 +71,7 @@
     DB : Mysql
   </li>
   <li>
-    패포 : AWS(EC2, RDS)
+    배포 : AWS(EC2, RDS)
   </li>
  </ul>
  
