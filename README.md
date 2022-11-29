@@ -62,13 +62,13 @@
  <h4>백엔드</h4>
 <ul>
   <li>
-    프레임워크 : 스프링
+    프레임워크 : Spring(Spring Boot 2.7.6)
   </li>
   <li>
-    언어 : 자바
+    언어 : Java8
   </li>
   <li>
-    DB : Mysql
+    DB : Mysql, H2, Spring Data JPA
   </li>
   <li>
     배포 : AWS(EC2, RDS)
