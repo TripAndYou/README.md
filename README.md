@@ -53,7 +53,7 @@
     css : Tailwind
   </li>
   <li>
-    패포 : netflix
+    패포 : netlify
   </li>
   <li>
     yarn
