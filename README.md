@@ -42,4 +42,15 @@
  <img src='./13start.PNG'/>
   <h3>첫째날</h3>
  <img src='./1day.PNG'/>
-
+  <h4>프로젝트에 진심이었던 우리 디자이너</h4>
+ <img src='./레퍼런스.PNG'/>
+   <h3>둘째날</h3>
+ <img src='./2day.PNG'/>
+ <img src='./2day_1.PNG'/>
+ <p>He is Gon ㅠㅠ</p>
+  <h3>셋째날</h3>
+ <img src='./3day.PNG'/>
+  <h3>넷째날</h3>
+ <img src='./4day.PNG'/>
+   <h3>다섯째날</h3>
+ <img src='./5day.PNG'/>
