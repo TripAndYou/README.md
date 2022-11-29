@@ -37,6 +37,46 @@
   </li>
 </ul>
 
+## 사용기술
+<h4>프론트엔드</h4>
+<ul>
+  <li>
+    프레임워크 : 리액트
+  </li>
+  <li>
+    언어 : 타입스트립트
+  </li>
+  <li>
+    상태관리 : Recoil
+  </li>
+  <li>
+    css : Tailwind
+  </li>
+  <li>
+    패포 : netflix
+  </li>
+  <li>
+    yarn
+  </li>
+ </ul>
+ <h4>백엔드</h4>
+<ul>
+  <li>
+    프레임워크 : 스프링
+  </li>
+  <li>
+    언어 : 자바
+  </li>
+  <li>
+    DB : Mysql
+  </li>
+  <li>
+    패포 : AWS(EC2, RDS)
+  </li>
+ </ul>
+ 
+
+
 ## 우리들의 여정
  <h3>13기 시작</h3>
  <img src='./13start.PNG'/>
